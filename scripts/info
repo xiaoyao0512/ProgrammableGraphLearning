@@ -1,0 +1,3556 @@
+npb-3.3-CG-makea_6.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-makea_6.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28688272588	27359
+CT_START: 1618331365.945
+CT_END: 1618331365.945
+CT_COMP: 1618331365.945
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1457
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1928
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 14
+Starting...
+#nodes = 84
+#edges = 78
+npb_3_3_CG_makea_6
+npb-3.3-SP-initialize4.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-initialize4.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28683284889	27354
+CT_START: 1618331366.444
+CT_END: 1618331366.444
+CT_COMP: 1618331366.444
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1688
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1864
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 209
+#edges = 254
+npb_3_3_SP_initialize4
+npb-3.3-MG-kernel_comm3_2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-MG-kernel_comm3_2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28682628710	27353
+CT_START: 1618331366.923
+CT_END: 1618331366.923
+CT_COMP: 1618331366.923
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 533
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1776
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 77
+#edges = 93
+npb_3_3_MG_kernel_comm3_2
+npb-3.3-SP-compute_rhs6.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-compute_rhs6.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28681474867	27352
+CT_START: 1618331367.405
+CT_END: 1618331367.405
+CT_COMP: 1618331367.405
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 790
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1800
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 87
+#edges = 101
+npb_3_3_SP_compute_rhs6
+amd-app-sdk-3.0-SimpleConvolution-simpleNonSeparableConvolution.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-SimpleConvolution-simpleNonSeparableConvolution.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28681677619	27352
+CT_START: 1618331367.897
+CT_END: 1618331367.897
+CT_COMP: 1618331367.897
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 24277
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1840
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 6278
+#edges = 8778
+amd_app_sdk_3_0_SimpleConvolution_simpleNonSeparableConvolution
+polybench-gpu-1.0-bicg-bicgKernel1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-bicg-bicgKernel1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28680811315	27352
+CT_START: 1618331368.776
+CT_END: 1618331368.776
+CT_COMP: 1618331368.777
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2158
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1876
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 402
+#edges = 541
+polybench_gpu_1_0_bicg_bicgKernel1
+amd-app-sdk-3.0-ScanLargeArrays-blockAddition.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-ScanLargeArrays-blockAddition.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28680298905	27351
+CT_START: 1618331369.250
+CT_END: 1618331369.250
+CT_COMP: 1618331369.250
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 661
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1912
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 31
+#edges = 25
+amd_app_sdk_3_0_ScanLargeArrays_blockAddition
+npb-3.3-MG-kernel_zero3.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-MG-kernel_zero3.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28680800256	27352
+CT_START: 1618331369.700
+CT_END: 1618331369.700
+CT_COMP: 1618331369.700
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 365
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1748
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 31
+#edges = 30
+npb_3_3_MG_kernel_zero3
+amd-app-sdk-3.0-SobelFilter-sobel_filter.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-SobelFilter-sobel_filter.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28680944025	27352
+CT_START: 1618331370.222
+CT_END: 1618331370.223
+CT_COMP: 1618331370.223
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1217
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1880
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 146
+#edges = 154
+amd_app_sdk_3_0_SobelFilter_sobel_filter
+npb-3.3-BT-compute_rhs2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-compute_rhs2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28679745945	27351
+CT_START: 1618331370.705
+CT_END: 1618331370.705
+CT_COMP: 1618331370.705
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1652
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1868
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 7
+Starting...
+#nodes = 270
+#edges = 344
+npb_3_3_BT_compute_rhs2
+shoc-1.1.5-Scan-top_scan.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+shoc-1.1.5-Scan-top_scan.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28680096153	27351
+CT_START: 1618331371.212
+CT_END: 1618331371.212
+CT_COMP: 1618331371.212
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 317
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1844
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 17
+#edges = 17
+shoc_1_1_5_Scan_top_scan
+npb-3.3-SP-exact_rhs1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-exact_rhs1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28674846720	27346
+CT_START: 1618331371.672
+CT_END: 1618331371.672
+CT_COMP: 1618331371.672
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 726
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1980
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 52
+#edges = 59
+npb_3_3_SP_exact_rhs1
+shoc-1.1.5-Spmv-spmv_csr_scalar_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+shoc-1.1.5-Spmv-spmv_csr_scalar_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28668782592	27340
+CT_START: 1618331372.158
+CT_END: 1618331372.158
+CT_COMP: 1618331372.158
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1770
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1772
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 228
+#edges = 287
+shoc_1_1_5_Spmv_spmv_csr_scalar_kernel
+npb-3.3-BT-initialize5.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-initialize5.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28668996403	27340
+CT_START: 1618331372.655
+CT_END: 1618331372.655
+CT_COMP: 1618331372.655
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1688
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1868
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 209
+#edges = 254
+npb_3_3_BT_initialize5
+npb-3.3-LU-setbv1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-LU-setbv1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28667805696	27339
+CT_START: 1618331373.146
+CT_END: 1618331373.146
+CT_COMP: 1618331373.147
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1112
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1832
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 123
+#edges = 148
+npb_3_3_LU_setbv1
+polybench-gpu-1.0-atax-atax_kernel2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-atax-atax_kernel2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28666272153	27338
+CT_START: 1618331373.690
+CT_END: 1618331373.690
+CT_COMP: 1618331373.690
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1737
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1864
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 273
+#edges = 362
+polybench_gpu_1_0_atax_atax_kernel2
+rodinia-3.1-bfs-BFS_1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-bfs-BFS_1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28667105280	27339
+CT_START: 1618331374.184
+CT_END: 1618331374.184
+CT_COMP: 1618331374.185
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1937
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1796
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 17
+Starting...
+#nodes = 166
+#edges = 183
+rodinia_3_1_bfs_BFS_1
+npb-3.3-BT-initialize4.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-initialize4.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28667953152	27339
+CT_START: 1618331374.647
+CT_END: 1618331374.647
+CT_COMP: 1618331374.647
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1688
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1916
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 209
+#edges = 254
+npb_3_3_BT_initialize4
+amd-app-sdk-3.0-FastWalshTransform-fastWalshTransform.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-FastWalshTransform-fastWalshTransform.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28667868364	27339
+CT_START: 1618331375.130
+CT_END: 1618331375.130
+CT_COMP: 1618331375.131
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 469
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1820
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 53
+#edges = 57
+amd_app_sdk_3_0_FastWalshTransform_fastWalshTransform
+amd-app-sdk-3.0-BinomialOption-binomial_options.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-BinomialOption-binomial_options.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28695365222	27366
+CT_START: 1618331375.644
+CT_END: 1618331375.644
+CT_COMP: 1618331375.644
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 3219
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1924
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 15
+Starting...
+#nodes = 657
+#edges = 804
+amd_app_sdk_3_0_BinomialOption_binomial_options
+npb-3.3-SP-add.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-add.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28696747622	27367
+CT_START: 1618331376.154
+CT_END: 1618331376.154
+CT_COMP: 1618331376.154
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 951
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1864
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 7
+Starting...
+#nodes = 100
+#edges = 122
+npb_3_3_SP_add
+npb-3.3-SP-ninvr.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-ninvr.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28695262003	27365
+CT_START: 1618331376.640
+CT_END: 1618331376.640
+CT_COMP: 1618331376.640
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 477
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1816
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 57
+#edges = 60
+npb_3_3_SP_ninvr
+npb-3.3-MG-kernel_comm3_3.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-MG-kernel_comm3_3.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28695011328	27365
+CT_START: 1618331377.150
+CT_END: 1618331377.150
+CT_COMP: 1618331377.150
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 541
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1904
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 79
+#edges = 94
+npb_3_3_MG_kernel_comm3_3
+npb-3.3-BT-y_solve2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-y_solve2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28695258316	27365
+CT_START: 1618331377.642
+CT_END: 1618331377.642
+CT_COMP: 1618331377.642
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 3353
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1760
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 648
+#edges = 826
+npb_3_3_BT_y_solve2
+npb-3.3-SP-initialize5.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-initialize5.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28694768025	27365
+CT_START: 1618331378.154
+CT_END: 1618331378.154
+CT_COMP: 1618331378.154
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1688
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1792
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 209
+#edges = 254
+npb_3_3_SP_initialize5
+npb-3.3-CG-makea_7.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-makea_7.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28698756710	27369
+CT_START: 1618331378.649
+CT_END: 1618331378.649
+CT_COMP: 1618331378.649
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1203
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1844
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 7
+Starting...
+#nodes = 181
+#edges = 227
+npb_3_3_CG_makea_7
+amd-app-sdk-3.0-Reduction-reduce.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-Reduction-reduce.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28696961433	27367
+CT_START: 1618331379.133
+CT_END: 1618331379.133
+CT_COMP: 1618331379.133
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2550
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1824
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 426
+#edges = 549
+amd_app_sdk_3_0_Reduction_reduce
+polybench-gpu-1.0-correlation-mean_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-correlation-mean_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28697938329	27368
+CT_START: 1618331379.637
+CT_END: 1618331379.637
+CT_COMP: 1618331379.638
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1497
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1808
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 213
+#edges = 269
+polybench_gpu_1_0_correlation_mean_kernel
+npb-3.3-CG-makea_5.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-makea_5.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28698970521	27369
+CT_START: 1618331380.196
+CT_END: 1618331380.196
+CT_COMP: 1618331380.196
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1867
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1844
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 13
+Starting...
+#nodes = 206
+#edges = 253
+npb_3_3_CG_makea_5
+polybench-gpu-1.0-syr2k-syr2k_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-syr2k-syr2k_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701377740	27371
+CT_START: 1618331380.680
+CT_END: 1618331380.680
+CT_COMP: 1618331380.680
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2261
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1844
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 428
+#edges = 582
+polybench_gpu_1_0_syr2k_syr2k_kernel
+npb-3.3-MG-kernel_comm3_1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-MG-kernel_comm3_1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700024832	27370
+CT_START: 1618331381.197
+CT_END: 1618331381.197
+CT_COMP: 1618331381.197
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 533
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1800
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 77
+#edges = 93
+npb_3_3_MG_kernel_comm3_1
+rodinia-3.1-cfd-initialize_variables.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-cfd-initialize_variables.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700024832	27370
+CT_START: 1618331381.677
+CT_END: 1618331381.677
+CT_COMP: 1618331381.677
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 967
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1824
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 7
+Starting...
+#nodes = 99
+#edges = 121
+rodinia_3_1_cfd_initialize_variables
+parboil-0.2-stencil-naive_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+parboil-0.2-stencil-naive_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28698900480	27369
+CT_START: 1618331382.148
+CT_END: 1618331382.148
+CT_COMP: 1618331382.149
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 956
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1812
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 5
+Starting...
+#nodes = 136
+#edges = 162
+parboil_0_2_stencil_naive_kernel
+rodinia-3.1-lud-lud_internal.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-lud-lud_internal.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28699394457	27369
+CT_START: 1618331382.638
+CT_END: 1618331382.638
+CT_COMP: 1618331382.638
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1641
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1876
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 278
+#edges = 344
+rodinia_3_1_lud_lud_internal
+polybench-gpu-1.0-correlation-corr_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-correlation-corr_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28698181632	27368
+CT_START: 1618331383.204
+CT_END: 1618331383.204
+CT_COMP: 1618331383.204
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 6363
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1828
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 14
+Starting...
+#nodes = 1789
+#edges = 2461
+polybench_gpu_1_0_correlation_corr_kernel
+polybench-gpu-1.0-bicg-bicgKernel2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-bicg-bicgKernel2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28699014758	27369
+CT_START: 1618331383.761
+CT_END: 1618331383.761
+CT_COMP: 1618331383.761
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2158
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 2000
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 402
+#edges = 541
+polybench_gpu_1_0_bicg_bicgKernel2
+rodinia-3.1-kmeans-kmeans_swap.c:2:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-kmeans-kmeans_swap.c:2:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28699394457	27369
+CT_START: 1618331384.323
+CT_END: 1618331384.324
+CT_COMP: 1618331384.324
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1401
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1832
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 7
+Starting...
+#nodes = 215
+#edges = 288
+rodinia_3_1_kmeans_kmeans_swap
+npb-3.3-LU-ssor2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-LU-ssor2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702365696	27372
+CT_START: 1618331384.799
+CT_END: 1618331384.799
+CT_COMP: 1618331384.800
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 830
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1740
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 84
+#edges = 103
+npb_3_3_LU_ssor2
+npb-3.3-FT-compute_indexmap.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-FT-compute_indexmap.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702996070	27373
+CT_START: 1618331385.275
+CT_END: 1618331385.275
+CT_COMP: 1618331385.276
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 493
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1896
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 68
+#edges = 73
+npb_3_3_FT_compute_indexmap
+npb-3.3-BT-compute_rhs1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-compute_rhs1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702874419	27373
+CT_START: 1618331385.773
+CT_END: 1618331385.773
+CT_COMP: 1618331385.774
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1260
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1840
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 9
+Starting...
+#nodes = 113
+#edges = 108
+npb_3_3_BT_compute_rhs1
+shoc-1.1.5-Triad-Triad.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+shoc-1.1.5-Triad-Triad.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702948147	27373
+CT_START: 1618331386.307
+CT_END: 1618331386.307
+CT_COMP: 1618331386.307
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 519
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1832
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 4
+Starting...
+#nodes = 28
+#edges = 24
+shoc_1_1_5_Triad_Triad
+rodinia-3.1-particlefilter-normalize_weights_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-particlefilter-normalize_weights_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701790617	27372
+CT_START: 1618331386.788
+CT_END: 1618331386.788
+CT_COMP: 1618331386.788
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 814
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1900
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 41
+#edges = 40
+rodinia_3_1_particlefilter_normalize_weights_kernel
+npb-3.3-LU-setbv2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-LU-setbv2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701307699	27371
+CT_START: 1618331387.266
+CT_END: 1618331387.266
+CT_COMP: 1618331387.267
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 494
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1852
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 3
+Starting...
+#nodes = 41
+#edges = 43
+npb_3_3_LU_setbv2
+polybench-gpu-1.0-atax-atax_kernel1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-atax-atax_kernel1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701613670	27371
+CT_START: 1618331387.813
+CT_END: 1618331387.813
+CT_COMP: 1618331387.814
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1799
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1820
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 293
+#edges = 392
+polybench_gpu_1_0_atax_atax_kernel1
+rodinia-3.1-bfs-BFS_2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-bfs-BFS_2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700537241	27370
+CT_START: 1618331388.308
+CT_END: 1618331388.308
+CT_COMP: 1618331388.308
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 740
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1840
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 7
+Starting...
+#nodes = 33
+#edges = 28
+rodinia_3_1_bfs_BFS_2
+rodinia-3.1-backprop-bpnn_adjust_weights_ocl.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-backprop-bpnn_adjust_weights_ocl.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28698671923	27369
+CT_START: 1618331388.804
+CT_END: 1618331388.804
+CT_COMP: 1618331388.804
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1133
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1876
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 129
+#edges = 127
+rodinia_3_1_backprop_bpnn_adjust_weights_ocl
+npb-3.3-MG-kernel_zran3_3.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-MG-kernel_zran3_3.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700728934	27371
+CT_START: 1618331389.300
+CT_END: 1618331389.300
+CT_COMP: 1618331389.300
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 681
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1916
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 42
+#edges = 43
+npb_3_3_MG_kernel_zran3_3
+rodinia-3.1-cfd-compute_step_factor.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-cfd-compute_step_factor.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702808064	27373
+CT_START: 1618331389.812
+CT_END: 1618331389.812
+CT_COMP: 1618331389.813
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 678
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1848
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 3
+Starting...
+#nodes = 99
+#edges = 98
+rodinia_3_1_cfd_compute_step_factor
+amd-app-sdk-3.0-ScanLargeArrays-ScanLargeArrays.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-ScanLargeArrays-ScanLargeArrays.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28704105676	27374
+CT_START: 1618331390.329
+CT_END: 1618331390.329
+CT_COMP: 1618331390.329
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2692
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1908
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 13
+Starting...
+#nodes = 527
+#edges = 649
+amd_app_sdk_3_0_ScanLargeArrays_ScanLargeArrays
+polybench-gpu-1.0-gemm-gemm.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-gemm-gemm.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703018188	27373
+CT_START: 1618331390.854
+CT_END: 1618331390.854
+CT_COMP: 1618331390.854
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1762
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1788
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 255
+#edges = 334
+polybench_gpu_1_0_gemm_gemm
+npb-3.3-BT-exact_rhs1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-exact_rhs1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701344563	27371
+CT_START: 1618331391.383
+CT_END: 1618331391.383
+CT_COMP: 1618331391.384
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1311
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1860
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 187
+#edges = 224
+npb_3_3_BT_exact_rhs1
+npb-3.3-BT-x_solve2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-x_solve2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701425664	27371
+CT_START: 1618331391.942
+CT_END: 1618331391.942
+CT_COMP: 1618331391.942
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 3345
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1928
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 647
+#edges = 825
+npb_3_3_BT_x_solve2
+amd-app-sdk-3.0-ScanLargeArrays-prefixSum.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-ScanLargeArrays-prefixSum.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701794304	27372
+CT_START: 1618331392.501
+CT_END: 1618331392.501
+CT_COMP: 1618331392.501
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 3483
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1976
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 13
+Starting...
+#nodes = 753
+#edges = 949
+amd_app_sdk_3_0_ScanLargeArrays_prefixSum
+npb-3.3-LU-ssor3.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-LU-ssor3.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700555673	27370
+CT_START: 1618331393.079
+CT_END: 1618331393.079
+CT_COMP: 1618331393.080
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 991
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1912
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 7
+Starting...
+#nodes = 112
+#edges = 138
+npb_3_3_LU_ssor3
+shoc-1.1.5-Spmv-spmv_ellpackr_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+shoc-1.1.5-Spmv-spmv_ellpackr_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702922342	27373
+CT_START: 1618331393.568
+CT_END: 1618331393.568
+CT_COMP: 1618331393.568
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2052
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1868
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 329
+#edges = 426
+shoc_1_1_5_Spmv_spmv_ellpackr_kernel
+nvidia-4.2-VectorAdd-VectorAdd.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+nvidia-4.2-VectorAdd-VectorAdd.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700419276	27370
+CT_START: 1618331394.055
+CT_END: 1618331394.055
+CT_COMP: 1618331394.055
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 503
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1820
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 4
+Starting...
+#nodes = 24
+#edges = 20
+nvidia_4_2_VectorAdd_VectorAdd
+polybench-gpu-1.0-2DConvolution-Convolution2D_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-2DConvolution-Convolution2D_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700902195	27371
+CT_START: 1618331394.546
+CT_END: 1618331394.547
+CT_COMP: 1618331394.547
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1217
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1920
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 168
+#edges = 184
+polybench_gpu_1_0_2DConvolution_Convolution2D_kernel
+shoc-1.1.5-Sort-top_scan.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+shoc-1.1.5-Sort-top_scan.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702362009	27372
+CT_START: 1618331395.008
+CT_END: 1618331395.008
+CT_COMP: 1618331395.008
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1594
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1764
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 210
+#edges = 265
+shoc_1_1_5_Sort_top_scan
+npb-3.3-CG-makea_4.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-makea_4.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701727948	27372
+CT_START: 1618331395.584
+CT_END: 1618331395.584
+CT_COMP: 1618331395.585
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1609
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1916
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 184
+#edges = 223
+npb_3_3_CG_makea_4
+nvidia-4.2-MatVecMul-MatVecMulCoalesced2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+nvidia-4.2-MatVecMul-MatVecMulCoalesced2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702008115	27372
+CT_START: 1618331396.068
+CT_END: 1618331396.068
+CT_COMP: 1618331396.068
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 6174
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1876
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 19
+Starting...
+#nodes = 1209
+#edges = 1565
+nvidia_4_2_MatVecMul_MatVecMulCoalesced2
+nvidia-4.2-MatVecMul-MatVecMulUncoalesced0.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+nvidia-4.2-MatVecMul-MatVecMulUncoalesced0.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702096588	27372
+CT_START: 1618331396.627
+CT_END: 1618331396.627
+CT_COMP: 1618331396.628
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1531
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1864
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 183
+#edges = 231
+nvidia_4_2_MatVecMul_MatVecMulUncoalesced0
+nvidia-4.2-MersenneTwister-BoxMuller.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+nvidia-4.2-MersenneTwister-BoxMuller.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700330803	27370
+CT_START: 1618331397.115
+CT_END: 1618331397.115
+CT_COMP: 1618331397.116
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1253
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1840
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 232
+#edges = 296
+nvidia_4_2_MersenneTwister_BoxMuller
+npb-3.3-BT-exact_rhs5.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-exact_rhs5.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701101260	27371
+CT_START: 1618331397.652
+CT_END: 1618331397.652
+CT_COMP: 1618331397.653
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 790
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1760
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 87
+#edges = 101
+npb_3_3_BT_exact_rhs5
+npb-3.3-FT-cffts2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-FT-cffts2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702185062	27372
+CT_START: 1618331398.198
+CT_END: 1618331398.198
+CT_COMP: 1618331398.198
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1951
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1772
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 268
+#edges = 344
+npb_3_3_FT_cffts2
+amd-app-sdk-3.0-BitonicSort-bitonicSort.c:2:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-BitonicSort-bitonicSort.c:2:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700338176	27370
+CT_START: 1618331398.694
+CT_END: 1618331398.694
+CT_COMP: 1618331398.694
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1124
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1824
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 81
+#edges = 84
+amd_app_sdk_3_0_BitonicSort_bitonicSort
+polybench-gpu-1.0-gramschmidt-gramschmidt_kernel1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-gramschmidt-gramschmidt_kernel1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700282880	27370
+CT_START: 1618331399.191
+CT_END: 1618331399.191
+CT_COMP: 1618331399.191
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1610
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1760
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 9
+Starting...
+#nodes = 240
+#edges = 320
+polybench_gpu_1_0_gramschmidt_gramschmidt_kernel1
+npb-3.3-CG-main_1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-main_1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703725977	27374
+CT_START: 1618331399.687
+CT_END: 1618331399.687
+CT_COMP: 1618331399.687
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 277
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1748
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 9
+#edges = 7
+npb_3_3_CG_main_1
+npb-3.3-BT-initialize3.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-initialize3.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701753753	27372
+CT_START: 1618331400.205
+CT_END: 1618331400.205
+CT_COMP: 1618331400.205
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1680
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1828
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 208
+#edges = 253
+npb_3_3_BT_initialize3
+rodinia-3.1-gaussian-Fan2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-gaussian-Fan2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702730649	27373
+CT_START: 1618331400.696
+CT_END: 1618331400.696
+CT_COMP: 1618331400.696
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1098
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1844
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 9
+Starting...
+#nodes = 94
+#edges = 106
+rodinia_3_1_gaussian_Fan2
+polybench-gpu-1.0-correlation-std_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-correlation-std_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702546329	27372
+CT_START: 1618331401.198
+CT_END: 1618331401.199
+CT_COMP: 1618331401.199
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2076
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1820
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 13
+Starting...
+#nodes = 351
+#edges = 447
+polybench_gpu_1_0_correlation_std_kernel
+polybench-gpu-1.0-2mm-mm2_kernel1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-2mm-mm2_kernel1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703755468	27374
+CT_START: 1618331401.699
+CT_END: 1618331401.699
+CT_COMP: 1618331401.699
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1765
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1868
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 261
+#edges = 347
+polybench_gpu_1_0_2mm_mm2_kernel1
+polybench-gpu-1.0-correlation-reduce_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-correlation-reduce_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703132467	27373
+CT_START: 1618331402.190
+CT_END: 1618331402.190
+CT_COMP: 1618331402.190
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 978
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1812
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 9
+Starting...
+#nodes = 63
+#edges = 62
+polybench_gpu_1_0_correlation_reduce_kernel
+polybench-gpu-1.0-covariance-mean_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-covariance-mean_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703150899	27373
+CT_START: 1618331402.714
+CT_END: 1618331402.714
+CT_COMP: 1618331402.714
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1497
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1844
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 213
+#edges = 269
+polybench_gpu_1_0_covariance_mean_kernel
+npb-3.3-FT-evolve.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-FT-evolve.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701259776	27371
+CT_START: 1618331403.154
+CT_END: 1618331403.154
+CT_COMP: 1618331403.154
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 502
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1804
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 3
+Starting...
+#nodes = 44
+#edges = 43
+npb_3_3_FT_evolve
+npb-3.3-CG-main_0.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-main_0.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701127065	27371
+CT_START: 1618331403.637
+CT_END: 1618331403.637
+CT_COMP: 1618331403.638
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1675
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1848
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 7
+Starting...
+#nodes = 273
+#edges = 355
+npb_3_3_CG_main_0
+amd-app-sdk-3.0-FloydWarshall-floydWarshallPass.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-FloydWarshall-floydWarshallPass.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700880076	27371
+CT_START: 1618331404.160
+CT_END: 1618331404.160
+CT_COMP: 1618331404.160
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 677
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1756
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 5
+Starting...
+#nodes = 49
+#edges = 48
+amd_app_sdk_3_0_FloydWarshall_floydWarshallPass
+rodinia-3.1-nn-NearestNeighbor.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-nn-NearestNeighbor.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701160243	27371
+CT_START: 1618331404.643
+CT_END: 1618331404.643
+CT_COMP: 1618331404.643
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 627
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1768
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 4
+Starting...
+#nodes = 62
+#edges = 65
+rodinia_3_1_nn_NearestNeighbor
+npb-3.3-FT-cffts3.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-FT-cffts3.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703515852	27373
+CT_START: 1618331405.106
+CT_END: 1618331405.106
+CT_COMP: 1618331405.106
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2027
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1792
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 292
+#edges = 378
+npb_3_3_FT_cffts3
+parboil-0.2-spmv-A.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+parboil-0.2-spmv-A.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703851315	27374
+CT_START: 1618331405.635
+CT_END: 1618331405.636
+CT_COMP: 1618331405.636
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1959
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1956
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 287
+#edges = 366
+parboil_0_2_spmv_A
+nvidia-4.2-MatVecMul-MatVecMulUncoalesced1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+nvidia-4.2-MatVecMul-MatVecMulUncoalesced1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703305728	27373
+CT_START: 1618331406.202
+CT_END: 1618331406.202
+CT_COMP: 1618331406.202
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 5050
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1916
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 1112
+#edges = 1497
+nvidia_4_2_MatVecMul_MatVecMulUncoalesced1
+polybench-gpu-1.0-mvt-mvt_kernel1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-mvt-mvt_kernel1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700732620	27371
+CT_START: 1618331406.728
+CT_END: 1618331406.728
+CT_COMP: 1618331406.728
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1729
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1796
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 271
+#edges = 361
+polybench_gpu_1_0_mvt_mvt_kernel1
+amd-app-sdk-3.0-SimpleConvolution-simpleSeparableConvolutionPass1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-SimpleConvolution-simpleSeparableConvolutionPass1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701974937	27372
+CT_START: 1618331407.264
+CT_END: 1618331407.264
+CT_COMP: 1618331407.264
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2472
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1764
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 574
+#edges = 753
+amd_app_sdk_3_0_SimpleConvolution_simpleSeparableConvolutionPass1
+npb-3.3-CG-conj_grad_0.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-conj_grad_0.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700334489	27370
+CT_START: 1618331407.781
+CT_END: 1618331407.781
+CT_COMP: 1618331407.782
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 753
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 2000
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 41
+#edges = 36
+npb_3_3_CG_conj_grad_0
+polybench-gpu-1.0-3mm-mm3_kernel1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-3mm-mm3_kernel1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28699140096	27369
+CT_START: 1618331408.263
+CT_END: 1618331408.263
+CT_COMP: 1618331408.263
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1765
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1864
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 261
+#edges = 347
+polybench_gpu_1_0_3mm_mm3_kernel1
+npb-3.3-SP-initialize3.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-initialize3.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28700050636	27370
+CT_START: 1618331408.800
+CT_END: 1618331408.800
+CT_COMP: 1618331408.800
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1680
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1868
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 208
+#edges = 253
+npb_3_3_SP_initialize3
+rodinia-3.1-particlefilter-find_index_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-particlefilter-find_index_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28699552972	27370
+CT_START: 1618331409.319
+CT_END: 1618331409.319
+CT_COMP: 1618331409.319
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1807
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1840
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 17
+Starting...
+#nodes = 121
+#edges = 133
+rodinia_3_1_particlefilter_find_index_kernel
+npb-3.3-SP-initialize1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-initialize1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701381427	27371
+CT_START: 1618331409.814
+CT_END: 1618331409.814
+CT_COMP: 1618331409.815
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1439
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1768
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 196
+#edges = 239
+npb_3_3_SP_initialize1
+shoc-1.1.5-FFT-chk1D_512.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+shoc-1.1.5-FFT-chk1D_512.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703891865	27374
+CT_START: 1618331410.325
+CT_END: 1618331410.325
+CT_COMP: 1618331410.325
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2932
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1844
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 19
+Starting...
+#nodes = 392
+#edges = 487
+shoc_1_1_5_FFT_chk1D_512
+nvidia-4.2-DotProduct-DotProduct.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+nvidia-4.2-DotProduct-DotProduct.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703784960	27374
+CT_START: 1618331410.828
+CT_END: 1618331410.828
+CT_COMP: 1618331410.828
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 615
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1856
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 4
+Starting...
+#nodes = 64
+#edges = 60
+nvidia_4_2_DotProduct_DotProduct
+polybench-gpu-1.0-3mm-mm3_kernel3.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-3mm-mm3_kernel3.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28704330547	27374
+CT_START: 1618331411.341
+CT_END: 1618331411.341
+CT_COMP: 1618331411.341
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1765
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1900
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 261
+#edges = 347
+polybench_gpu_1_0_3mm_mm3_kernel3
+amd-app-sdk-3.0-PrefixSum-group_prefixSum.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-PrefixSum-group_prefixSum.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702074470	27372
+CT_START: 1618331411.959
+CT_END: 1618331411.959
+CT_COMP: 1618331411.959
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2819
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1844
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 28
+Starting...
+#nodes = 204
+#edges = 237
+amd_app_sdk_3_0_PrefixSum_group_prefixSum
+npb-3.3-BT-z_solve2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-z_solve2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701584179	27371
+CT_START: 1618331412.478
+CT_END: 1618331412.478
+CT_COMP: 1618331412.479
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 3337
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1872
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 645
+#edges = 822
+npb_3_3_BT_z_solve2
+shoc-1.1.5-BFS-BFS_kernel_warp.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+shoc-1.1.5-BFS-BFS_kernel_warp.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701245030	27371
+CT_START: 1618331413.035
+CT_END: 1618331413.035
+CT_COMP: 1618331413.035
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 3694
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1844
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 16
+Starting...
+#nodes = 623
+#edges = 829
+shoc_1_1_5_BFS_BFS_kernel_warp
+nvidia-4.2-MatVecMul-MatVecMulCoalesced1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+nvidia-4.2-MatVecMul-MatVecMulCoalesced1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701595238	27371
+CT_START: 1618331413.561
+CT_END: 1618331413.561
+CT_COMP: 1618331413.562
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 6174
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1900
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 19
+Starting...
+#nodes = 1209
+#edges = 1565
+nvidia_4_2_MatVecMul_MatVecMulCoalesced1
+rodinia-3.1-cfd-time_step.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-cfd-time_step.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702063411	27372
+CT_START: 1618331414.159
+CT_END: 1618331414.159
+CT_COMP: 1618331414.160
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 903
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1828
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 4
+Starting...
+#nodes = 144
+#edges = 158
+rodinia_3_1_cfd_time_step
+npb-3.3-CG-init_mem_1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-init_mem_1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701691084	27372
+CT_START: 1618331414.639
+CT_END: 1618331414.639
+CT_COMP: 1618331414.639
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 277
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1816
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 9
+#edges = 7
+npb_3_3_CG_init_mem_1
+polybench-gpu-1.0-covariance-covar_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-covariance-covar_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703950848	27374
+CT_START: 1618331415.184
+CT_END: 1618331415.184
+CT_COMP: 1618331415.185
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 7959
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1880
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 14
+Starting...
+#nodes = 2350
+#edges = 3241
+polybench_gpu_1_0_covariance_covar_kernel
+npb-3.3-FT-cffts1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-FT-cffts1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702789632	27373
+CT_START: 1618331415.761
+CT_END: 1618331415.761
+CT_COMP: 1618331415.761
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1757
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1888
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 203
+#edges = 256
+npb_3_3_FT_cffts1
+polybench-gpu-1.0-gesummv-gesummv_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-gesummv-gesummv_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28704065126	27374
+CT_START: 1618331416.332
+CT_END: 1618331416.332
+CT_COMP: 1618331416.332
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2241
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1876
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 400
+#edges = 526
+polybench_gpu_1_0_gesummv_gesummv_kernel
+rodinia-3.1-cfd-memset_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-cfd-memset_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703195136	27373
+CT_START: 1618331416.821
+CT_END: 1618331416.821
+CT_COMP: 1618331416.821
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 293
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1928
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 12
+#edges = 10
+rodinia_3_1_cfd_memset_kernel
+polybench-gpu-1.0-gramschmidt-gramschmidt_kernel2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-gramschmidt-gramschmidt_kernel2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701215539	27371
+CT_START: 1618331417.325
+CT_END: 1618331417.325
+CT_COMP: 1618331417.325
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 567
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1872
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 4
+Starting...
+#nodes = 40
+#edges = 40
+polybench_gpu_1_0_gramschmidt_gramschmidt_kernel2
+npb-3.3-BT-add.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-add.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701278208	27371
+CT_START: 1618331417.826
+CT_END: 1618331417.826
+CT_COMP: 1618331417.826
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1896
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1896
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 7
+Starting...
+#nodes = 370
+#edges = 482
+npb_3_3_BT_add
+npb-3.3-CG-main_2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-main_2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702310400	27372
+CT_START: 1618331418.317
+CT_END: 1618331418.317
+CT_COMP: 1618331418.317
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 616
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1876
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 5
+Starting...
+#nodes = 30
+#edges = 25
+npb_3_3_CG_main_2
+rodinia-3.1-gaussian-Fan1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-gaussian-Fan1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702756454	27373
+CT_START: 1618331418.803
+CT_END: 1618331418.803
+CT_COMP: 1618331418.803
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 644
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1888
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 5
+Starting...
+#nodes = 49
+#edges = 54
+rodinia_3_1_gaussian_Fan1
+polybench-gpu-1.0-2mm-mm2_kernel2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-2mm-mm2_kernel2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702177689	27372
+CT_START: 1618331419.279
+CT_END: 1618331419.279
+CT_COMP: 1618331419.280
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1765
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1848
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 261
+#edges = 347
+polybench_gpu_1_0_2mm_mm2_kernel2
+amd-app-sdk-3.0-MatrixTranspose-matrixTranspose.c:2:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-MatrixTranspose-matrixTranspose.c:2:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702044979	27372
+CT_START: 1618331419.800
+CT_END: 1618331419.800
+CT_COMP: 1618331419.800
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1319
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1916
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 4
+Starting...
+#nodes = 221
+#edges = 256
+amd_app_sdk_3_0_MatrixTranspose_matrixTranspose
+npb-3.3-BT-initialize1.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-initialize1.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28704271564	27374
+CT_START: 1618331420.273
+CT_END: 1618331420.273
+CT_COMP: 1618331420.273
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1689
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1988
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 232
+#edges = 278
+npb_3_3_BT_initialize1
+shoc-1.1.5-Scan-reduce.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+shoc-1.1.5-Scan-reduce.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703707545	27373
+CT_START: 1618331420.758
+CT_END: 1618331420.758
+CT_COMP: 1618331420.758
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1850
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 2012
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 225
+#edges = 286
+shoc_1_1_5_Scan_reduce
+npb-3.3-SP-exact_rhs5.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-exact_rhs5.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28704109363	27374
+CT_START: 1618331421.309
+CT_END: 1618331421.309
+CT_COMP: 1618331421.309
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 790
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1820
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 87
+#edges = 101
+npb_3_3_SP_exact_rhs5
+polybench-gpu-1.0-gramschmidt-gramschmidt_kernel3.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-gramschmidt-gramschmidt_kernel3.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703184076	27373
+CT_START: 1618331421.819
+CT_END: 1618331421.819
+CT_COMP: 1618331421.819
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2200
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1840
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 15
+Starting...
+#nodes = 304
+#edges = 402
+polybench_gpu_1_0_gramschmidt_gramschmidt_kernel3
+polybench-gpu-1.0-syrk-syrk_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-syrk-syrk_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702822809	27373
+CT_START: 1618331422.345
+CT_END: 1618331422.345
+CT_COMP: 1618331422.345
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1879
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1948
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 320
+#edges = 431
+polybench_gpu_1_0_syrk_syrk_kernel
+npb-3.3-BT-compute_rhs6.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-BT-compute_rhs6.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702977638	27373
+CT_START: 1618331422.853
+CT_END: 1618331422.853
+CT_COMP: 1618331422.853
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1555
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1820
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 6
+Starting...
+#nodes = 287
+#edges = 362
+npb_3_3_BT_compute_rhs6
+rodinia-3.1-streamcluster-memset_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-streamcluster-memset_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702000742	27372
+CT_START: 1618331423.356
+CT_END: 1618331423.356
+CT_COMP: 1618331423.356
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 293
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1812
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 12
+#edges = 10
+rodinia_3_1_streamcluster_memset_kernel
+npb-3.3-CG-init_mem_0.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-init_mem_0.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702170316	27372
+CT_START: 1618331423.849
+CT_END: 1618331423.849
+CT_COMP: 1618331423.849
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 277
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1828
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 9
+#edges = 7
+npb_3_3_CG_init_mem_0
+shoc-1.1.5-Reduction-reduce.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+shoc-1.1.5-Reduction-reduce.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28703449497	27373
+CT_START: 1618331424.332
+CT_END: 1618331424.332
+CT_COMP: 1618331424.332
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1911
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1912
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 273
+#edges = 352
+shoc_1_1_5_Reduction_reduce
+rodinia-3.1-kmeans-kmeans_kernel_c.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-kmeans-kmeans_kernel_c.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702951833	27373
+CT_START: 1618331424.837
+CT_END: 1618331424.837
+CT_COMP: 1618331424.838
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 3844
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1896
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 16
+Starting...
+#nodes = 759
+#edges = 1047
+rodinia_3_1_kmeans_kmeans_kernel_c
+nvidia-4.2-MatVecMul-MatVecMulCoalesced0.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+nvidia-4.2-MatVecMul-MatVecMulCoalesced0.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28704850329	27375
+CT_START: 1618331425.412
+CT_END: 1618331425.412
+CT_COMP: 1618331425.412
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2195
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1888
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 320
+#edges = 408
+nvidia_4_2_MatVecMul_MatVecMulCoalesced0
+npb-3.3-FT-checksum.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-FT-checksum.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702288281	27372
+CT_START: 1618331425.945
+CT_END: 1618331425.945
+CT_COMP: 1618331425.946
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1432
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1872
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 12
+Starting...
+#nodes = 123
+#edges = 142
+npb_3_3_FT_checksum
+npb-3.3-CG-makea_6
+count =  258
+label =  0
+-----END-----
+npb-3.3-SP-initialize4
+count =  774
+label =  1
+-----END-----
+npb-3.3-MG-kernel_comm3_2
+count =  288
+label =  0
+-----END-----
+npb-3.3-SP-compute_rhs6
+count =  312
+label =  0
+-----END-----
+amd-app-sdk-3.0-SimpleConvolution-simpleNonSeparableConvolution
+count =  26349
+label =  1
+-----END-----
+polybench-gpu-1.0-bicg-bicgKernel1
+count =  1638
+label =  1
+-----END-----
+amd-app-sdk-3.0-ScanLargeArrays-blockAddition
+count =  90
+label =  0
+-----END-----
+npb-3.3-MG-kernel_zero3
+count =  99
+label =  0
+-----END-----
+amd-app-sdk-3.0-SobelFilter-sobel_filter
+count =  474
+label =  0
+-----END-----
+npb-3.3-BT-compute_rhs2
+count =  1044
+label =  1
+-----END-----
+shoc-1.1.5-Scan-top_scan
+count =  60
+label =  0
+-----END-----
+npb-3.3-SP-exact_rhs1
+count =  186
+label =  0
+-----END-----
+shoc-1.1.5-Spmv-spmv_csr_scalar_kernel
+count =  879
+label =  1
+-----END-----
+npb-3.3-BT-initialize5
+count =  774
+label =  1
+-----END-----
+npb-3.3-LU-setbv1
+count =  459
+label =  0
+-----END-----
+polybench-gpu-1.0-atax-atax_kernel2
+count =  1101
+label =  1
+-----END-----
+rodinia-3.1-bfs-BFS_1
+count =  576
+label =  1
+-----END-----
+npb-3.3-BT-initialize4
+count =  774
+label =  1
+-----END-----
+amd-app-sdk-3.0-FastWalshTransform-fastWalshTransform
+count =  180
+label =  0
+-----END-----
+amd-app-sdk-3.0-BinomialOption-binomial_options
+count =  2430
+label =  1
+-----END-----
+npb-3.3-SP-add
+count =  378
+label =  0
+-----END-----
+npb-3.3-SP-ninvr
+count =  189
+label =  0
+-----END-----
+npb-3.3-MG-kernel_comm3_3
+count =  291
+label =  0
+-----END-----
+npb-3.3-BT-y_solve2
+count =  2487
+label =  1
+-----END-----
+npb-3.3-SP-initialize5
+count =  774
+label =  1
+-----END-----
+npb-3.3-CG-makea_7
+count =  693
+label =  1
+-----END-----
+amd-app-sdk-3.0-Reduction-reduce
+count =  1662
+label =  1
+-----END-----
+polybench-gpu-1.0-correlation-mean_kernel
+count =  819
+label =  1
+-----END-----
+npb-3.3-CG-makea_5
+count =  771
+label =  1
+-----END-----
+polybench-gpu-1.0-syr2k-syr2k_kernel
+count =  1761
+label =  1
+-----END-----
+npb-3.3-MG-kernel_comm3_1
+count =  288
+label =  0
+-----END-----
+rodinia-3.1-cfd-initialize_variables
+count =  375
+label =  0
+-----END-----
+parboil-0.2-stencil-naive_kernel
+count =  498
+label =  0
+-----END-----
+rodinia-3.1-lud-lud_internal
+count =  1047
+label =  1
+-----END-----
+polybench-gpu-1.0-correlation-corr_kernel
+count =  7395
+label =  1
+-----END-----
+polybench-gpu-1.0-bicg-bicgKernel2
+count =  1638
+label =  1
+-----END-----
+rodinia-3.1-kmeans-kmeans_swap
+count =  876
+label =  1
+-----END-----
+npb-3.3-LU-ssor2
+count =  318
+label =  0
+-----END-----
+npb-3.3-FT-compute_indexmap
+count =  228
+label =  0
+-----END-----
+npb-3.3-BT-compute_rhs1
+count =  354
+label =  0
+-----END-----
+shoc-1.1.5-Triad-Triad
+count =  87
+label =  0
+-----END-----
+rodinia-3.1-particlefilter-normalize_weights_kernel
+count =  129
+label =  0
+-----END-----
+npb-3.3-LU-setbv2
+count =  141
+label =  0
+-----END-----
+polybench-gpu-1.0-atax-atax_kernel1
+count =  1191
+label =  1
+-----END-----
+rodinia-3.1-bfs-BFS_2
+count =  99
+label =  0
+-----END-----
+rodinia-3.1-backprop-bpnn_adjust_weights_ocl
+count =  399
+label =  0
+-----END-----
+npb-3.3-MG-kernel_zran3_3
+count =  138
+label =  0
+-----END-----
+rodinia-3.1-cfd-compute_step_factor
+count =  306
+label =  0
+-----END-----
+amd-app-sdk-3.0-ScanLargeArrays-ScanLargeArrays
+count =  1962
+label =  1
+-----END-----
+polybench-gpu-1.0-gemm-gemm
+count =  1017
+label =  1
+-----END-----
+npb-3.3-BT-exact_rhs1
+count =  681
+label =  1
+-----END-----
+npb-3.3-BT-x_solve2
+count =  2484
+label =  1
+-----END-----
+amd-app-sdk-3.0-ScanLargeArrays-prefixSum
+count =  2862
+label =  1
+-----END-----
+npb-3.3-LU-ssor3
+count =  426
+label =  0
+-----END-----
+shoc-1.1.5-Spmv-spmv_ellpackr_kernel
+count =  1296
+label =  1
+-----END-----
+nvidia-4.2-VectorAdd-VectorAdd
+count =  75
+label =  0
+-----END-----
+polybench-gpu-1.0-2DConvolution-Convolution2D_kernel
+count =  564
+label =  1
+-----END-----
+shoc-1.1.5-Sort-top_scan
+count =  804
+label =  1
+-----END-----
+npb-3.3-CG-makea_4
+count =  684
+label =  1
+-----END-----
+nvidia-4.2-MatVecMul-MatVecMulCoalesced2
+count =  4713
+label =  1
+-----END-----
+nvidia-4.2-MatVecMul-MatVecMulUncoalesced0
+count =  708
+label =  1
+-----END-----
+nvidia-4.2-MersenneTwister-BoxMuller
+count =  897
+label =  1
+-----END-----
+npb-3.3-BT-exact_rhs5
+count =  312
+label =  0
+-----END-----
+npb-3.3-FT-cffts2
+count =  1047
+label =  1
+-----END-----
+amd-app-sdk-3.0-BitonicSort-bitonicSort
+count =  261
+label =  0
+-----END-----
+polybench-gpu-1.0-gramschmidt-gramschmidt_kernel1
+count =  972
+label =  1
+-----END-----
+npb-3.3-CG-main_1
+count =  30
+label =  0
+-----END-----
+npb-3.3-BT-initialize3
+count =  771
+label =  1
+-----END-----
+rodinia-3.1-gaussian-Fan2
+count =  333
+label =  0
+-----END-----
+polybench-gpu-1.0-correlation-std_kernel
+count =  1356
+label =  1
+-----END-----
+polybench-gpu-1.0-2mm-mm2_kernel1
+count =  1056
+label =  1
+-----END-----
+polybench-gpu-1.0-correlation-reduce_kernel
+count =  201
+label =  0
+-----END-----
+polybench-gpu-1.0-covariance-mean_kernel
+count =  819
+label =  1
+-----END-----
+npb-3.3-FT-evolve
+count =  141
+label =  0
+-----END-----
+npb-3.3-CG-main_0
+count =  1077
+label =  1
+-----END-----
+amd-app-sdk-3.0-FloydWarshall-floydWarshallPass
+count =  156
+label =  0
+-----END-----
+rodinia-3.1-nn-NearestNeighbor
+count =  204
+label =  0
+-----END-----
+npb-3.3-FT-cffts3
+count =  1149
+label =  1
+-----END-----
+parboil-0.2-spmv-A
+count =  1119
+label =  1
+-----END-----
+nvidia-4.2-MatVecMul-MatVecMulUncoalesced1
+count =  4503
+label =  1
+-----END-----
+polybench-gpu-1.0-mvt-mvt_kernel1
+count =  1098
+label =  1
+-----END-----
+amd-app-sdk-3.0-SimpleConvolution-simpleSeparableConvolutionPass1
+count =  2274
+label =  1
+-----END-----
+npb-3.3-CG-conj_grad_0
+count =  129
+label =  0
+-----END-----
+polybench-gpu-1.0-3mm-mm3_kernel1
+count =  1056
+label =  1
+-----END-----
+npb-3.3-SP-initialize3
+count =  771
+label =  1
+-----END-----
+rodinia-3.1-particlefilter-find_index_kernel
+count =  423
+label =  0
+-----END-----
+npb-3.3-SP-initialize1
+count =  732
+label =  1
+-----END-----
+shoc-1.1.5-FFT-chk1D_512
+count =  1479
+label =  1
+-----END-----
+nvidia-4.2-DotProduct-DotProduct
+count =  195
+label =  0
+-----END-----
+polybench-gpu-1.0-3mm-mm3_kernel3
+count =  1056
+label =  1
+-----END-----
+amd-app-sdk-3.0-PrefixSum-group_prefixSum
+count =  726
+label =  1
+-----END-----
+npb-3.3-BT-z_solve2
+count =  2475
+label =  1
+-----END-----
+shoc-1.1.5-BFS-BFS_kernel_warp
+count =  2502
+label =  1
+-----END-----
+nvidia-4.2-MatVecMul-MatVecMulCoalesced1
+count =  4713
+label =  1
+-----END-----
+rodinia-3.1-cfd-time_step
+count =  489
+label =  0
+-----END-----
+npb-3.3-CG-init_mem_1
+count =  30
+label =  0
+-----END-----
+polybench-gpu-1.0-covariance-covar_kernel
+count =  9735
+label =  1
+-----END-----
+npb-3.3-FT-cffts1
+count =  783
+label =  1
+-----END-----
+polybench-gpu-1.0-gesummv-gesummv_kernel
+count =  1599
+label =  1
+-----END-----
+rodinia-3.1-cfd-memset_kernel
+count =  39
+label =  0
+-----END-----
+polybench-gpu-1.0-gramschmidt-gramschmidt_kernel2
+count =  135
+label =  0
+-----END-----
+npb-3.3-BT-add
+count =  1458
+label =  1
+-----END-----
+npb-3.3-CG-main_2
+count =  93
+label =  0
+-----END-----
+rodinia-3.1-gaussian-Fan1
+count =  174
+label =  0
+-----END-----
+polybench-gpu-1.0-2mm-mm2_kernel2
+count =  1056
+label =  1
+-----END-----
+amd-app-sdk-3.0-MatrixTranspose-matrixTranspose
+count =  783
+label =  1
+-----END-----
+npb-3.3-BT-initialize1
+count =  843
+label =  1
+-----END-----
+shoc-1.1.5-Scan-reduce
+count =  870
+label =  1
+-----END-----
+npb-3.3-SP-exact_rhs5
+count =  312
+label =  0
+-----END-----
+polybench-gpu-1.0-gramschmidt-gramschmidt_kernel3
+count =  1221
+label =  1
+-----END-----
+polybench-gpu-1.0-syrk-syrk_kernel
+count =  1305
+label =  1
+-----END-----
+npb-3.3-BT-compute_rhs6
+count =  1095
+label =  1
+-----END-----
+rodinia-3.1-streamcluster-memset_kernel
+count =  39
+label =  0
+-----END-----
+npb-3.3-CG-init_mem_0
+count =  30
+label =  0
+-----END-----
+shoc-1.1.5-Reduction-reduce
+count =  1068
+label =  1
+-----END-----
+rodinia-3.1-kmeans-kmeans_kernel_c
+count =  3156
+label =  1
+-----END-----
+nvidia-4.2-MatVecMul-MatVecMulCoalesced0
+count =  1239
+label =  1
+-----END-----
+npb-3.3-FT-checksum
+count =  438
+label =  0
+-----END-----
+npb-3.3npb-3.3-SP-compute_rhs2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-compute_rhs2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701702144	27372
+CT_START: 1618331426.435
+CT_END: 1618331426.435
+CT_COMP: 1618331426.435
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1142
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1828
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 7
+Starting...
+#nodes = 140
+#edges = 174
+npb_3_3_SP_compute_rhs2
+npb-3.3-FT-init_ui.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-FT-init_ui.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702557388	27372
+CT_START: 1618331426.910
+CT_END: 1618331426.910
+CT_COMP: 1618331426.910
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 503
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1860
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 4
+Starting...
+#nodes = 23
+#edges = 19
+npb_3_3_FT_init_ui
+polybench-gpu-1.0-covariance-reduce_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-covariance-reduce_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702808064	27373
+CT_START: 1618331427.469
+CT_END: 1618331427.469
+CT_COMP: 1618331427.469
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 809
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1908
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 41
+#edges = 39
+polybench_gpu_1_0_covariance_reduce_kernel
+polybench-gpu-1.0-mvt-mvt_kernel2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-mvt-mvt_kernel2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702553702	27372
+CT_START: 1618331427.946
+CT_END: 1618331427.946
+CT_COMP: 1618331427.946
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1729
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1812
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 10
+Starting...
+#nodes = 271
+#edges = 361
+polybench_gpu_1_0_mvt_mvt_kernel2
+rodinia-3.1-particlefilter-sum_kernel.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+rodinia-3.1-particlefilter-sum_kernel.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701827481	27372
+CT_START: 1618331428.460
+CT_END: 1618331428.460
+CT_COMP: 1618331428.460
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1099
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1824
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 106
+#edges = 131
+rodinia_3_1_particlefilter_sum_kernel
+amd-app-sdk-3.0-SimpleConvolution-simpleSeparableConvolutionPass2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+amd-app-sdk-3.0-SimpleConvolution-simpleSeparableConvolutionPass2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702634803	27372
+CT_START: 1618331428.942
+CT_END: 1618331428.942
+CT_COMP: 1618331428.942
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 2496
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1816
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 8
+Starting...
+#nodes = 511
+#edges = 693
+amd_app_sdk_3_0_SimpleConvolution_simpleSeparableConvolutionPass2
+polybench-gpu-1.0-3mm-mm3_kernel2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+polybench-gpu-1.0-3mm-mm3_kernel2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701425664	27371
+CT_START: 1618331429.456
+CT_END: 1618331429.456
+CT_COMP: 1618331429.456
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1765
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1916
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 11
+Starting...
+#nodes = 261
+#edges = 347
+polybench_gpu_1_0_3mm_mm3_kernel2
+npb-3.3-SP-pinvr.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-SP-pinvr.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28701093888	27371
+CT_START: 1618331429.964
+CT_END: 1618331429.965
+CT_COMP: 1618331429.965
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 477
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1788
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 2
+Starting...
+#nodes = 57
+#edges = 60
+npb_3_3_SP_pinvr
+npb-3.3-CG-makea_2.c:1:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() {
+^
+npb-3.3-CG-makea_2.c:1:1: note: change return type to 'int'
+void main() {
+^~~~
+int
+1 warning generated.
+nice: cannot set niceness: Permission denied
+CT_MEM: 28702461542	27372
+CT_START: 1618331430.466
+CT_END: 1618331430.466
+CT_COMP: 1618331430.466
+CT_LIMIT: 0.000
+Total Contexts: 1
+Total Uncomp Written: 1933
+Max Buffers Alloc: 1 of 1048600
+Max RSS: 1872
+nice: cannot set niceness: Permission denied
+Event Version set: 8	Basic Block table: 18
+Starting...
+#nodes = 137
+#edges = 162
+npb_3_3_CG_makea_2
+-SP-compute_rhs2
+count =  534
+label =  1
+-----END-----
+npb-3.3-FT-init_ui
+count =  72
+label =  0
+-----END-----
+polybench-gpu-1.0-covariance-reduce_kernel
+count =  129
+label =  0
+-----END-----
+polybench-gpu-1.0-mvt-mvt_kernel2
+count =  1098
+label =  1
+-----END-----
+rodinia-3.1-particlefilter-sum_kernel
+count =  402
+label =  0
+-----END-----
+amd-app-sdk-3.0-SimpleConvolution-simpleSeparableConvolutionPass2
+count =  2094
+label =  1
+-----END-----
+polybench-gpu-1.0-3mm-mm3_kernel2
+count =  1056
+label =  1
+-----END-----
+npb-3.3-SP-pinvr
+count =  189
+label =  0
+-----END-----
+npb-3.3-CG-makea_2
+count =  504
+label =  1
+-----END-----

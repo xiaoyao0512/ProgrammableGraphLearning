@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http://www.gexf.net/1.1draft/viz" version="1.1" xmlns="http://www.gexf.net/1.1draft">
+<meta lastmodifieddate="2020-05-08+6:30">
+<creator>Gephi 0.7</creator>
+</meta>
+<graph defaultedgetype="directed" idtype="string" type="static">
+<nodes count="19">
+<node id="18" label="18"/>
+<node id="6" label="6"/>
+<node id="19" label="19"/>
+<node id="12" label="12"/>
+<node id="2" label="2"/>
+<node id="15" label="15"/>
+<node id="14" label="14"/>
+<node id="7" label="7"/>
+<node id="3" label="3"/>
+<node id="16" label="16"/>
+<node id="5" label="5"/>
+<node id="8" label="8"/>
+<node id="11" label="11"/>
+<node id="10" label="10"/>
+<node id="1" label="1"/>
+<node id="13" label="13"/>
+<node id="4" label="4"/>
+<node id="20" label="20"/>
+<node id="17" label="17"/>
+<node id="9" label="9"/>
+</nodes>
+<edges count="17">
+<edge id="0" source="18" target="19" weight="1"/>
+<edge id="1" source="19" target="20" weight="1"/>
+<edge id="2" source="12" target="13" weight="1"/>
+<edge id="3" source="2" target="14" weight="1"/>
+<edge id="4" source="2" target="16" weight="1"/>
+<edge id="5" source="14" target="15" weight="1"/>
+<edge id="6" source="3" target="17" weight="1"/>
+<edge id="7" source="16" target="19" weight="1"/>
+<edge id="8" source="5" target="8" weight="1"/>
+<edge id="9" source="8" target="9" weight="1"/>
+<edge id="10" source="8" target="11" weight="1"/>
+<edge id="11" source="8" target="12" weight="1"/>
+<edge id="12" source="11" target="15" weight="1"/>
+<edge id="13" source="1" target="7" weight="1"/>
+<edge id="14" source="13" target="14" weight="1"/>
+<edge id="15" source="4" target="18" weight="1"/>
+<edge id="16" source="17" target="19" weight="1"/>
+<edge id="17" source="9" target="10" weight="1"/>
+</edges>
+</graph>
+</gexf>

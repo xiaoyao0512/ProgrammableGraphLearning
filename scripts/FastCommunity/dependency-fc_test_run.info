@@ -1,0 +1,24 @@
+FASTCOMMUNITY_INFERENCE_ALGORITHM
+START-----:	Tue Apr  4 21:05:06 2017
+---FILES--------
+DIRECTORY-:	
+F_IN------:	dependency.wpairs
+F_JOINS---:	dependency-fc_test_run.joins
+F_INFO----:	dependency-fc_test_run.info
+F_NET-----:	dependency-fc_test_run.wpairs
+F_GROUPS--:	dependency-fc_test_run.groups
+F_GDIST---:	dependency-fc_test_run.hist
+---NET_STATS----
+MAXID-----:	27185
+NUMNODES--:	27186
+NUMEDGES--:	35894
+TOTALWT---:	2299452
+---GROUPS-------
+NUMGROUPS-:	58
+MINSIZE---:	242
+MEANSIZE--:	468.724
+MAXSIZE---:	864
+---MODULARITY---
+MAXQ------:	0.981094
+STEP------:	25380
+EXIT------:	Tue Apr  4 21:05:12 2017
