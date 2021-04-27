@@ -1,7 +1,7 @@
 # ProgrammableGraphLearning
 
 1. Install required tools mentioned in Document/LLVM 3.8.1 Installation Guide;
-2. The following steps are used to remove some cached files;\\
+2. The following steps are used to remove some cached files;\
   2.1. go to llvm-contech, remove CMakeCache.txt "rm CMakeCache.txt";
   2.2. Type "cmake .";
   2.3. Type "make";
