@@ -7,6 +7,6 @@
   2.3. Type "make";\
   2.4. Type "cd ..";\
   2.5. Type “make clean”;\
-  2.6. Type "make";\
+  2.6. Type "make";
 3. Set an environment variable. For example, if one places it into the /home/Downloads folder, type "export /home/Downloads/ProgrammableGraphLearning";
 4. If you have C code, go to the script folder, and run "perl run.pl <C code>" to obtain the graph representation; 
